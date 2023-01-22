@@ -1,4 +1,4 @@
-# THIS IS A COLLECTION OF PYTHON PROJECTS
+THIS IS A COLLECTION OF PYTHON PROJECTS
 
 # Filing System:
 Project involves the creation of a file system using python. Users can create and delete folders and files. 
