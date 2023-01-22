@@ -13,4 +13,4 @@ Project involves the creation of a stock marcket predictor using python. The cod
 Project involves the creation of an Uno game using python. Users can experience a virtual uno experience through python.
 
 # Web Scraping
-Project involves the creation of a Web Scraper using python. The code retreives web data from a wedding photo site and filters it to find images with beaches.
+Project involves the creation of a Web Scraper using python. The code retrieves web data from a wedding photo site and filters it to find images with beaches.
